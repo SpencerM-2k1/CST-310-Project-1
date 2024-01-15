@@ -17,5 +17,3 @@ In order to execute the newly compiled programs, use the following commands:
     ./sierpinski-edit-1
     ./sierpinski-edit-2
     ./sierpinski-edit-3
-
-# CST-310-Project-1
